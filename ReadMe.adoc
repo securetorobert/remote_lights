@@ -10,7 +10,7 @@ Sample code for controlling a Grove relay from an Arduino Nano RP2040 Connect us
 
 == Step 1: Installation
 This code requires that your device is registered with the Arduino IoT Cloud. Please follow my instructions on hackster.io to get started.
-
+https://www.hackster.io/robert-thas/internet-controlled-light-switch-c4381e
 
 
 == Step 2: Assemble the circuit
@@ -37,13 +37,7 @@ This project is released under a {License} License.
 
 === BOM
 This is available from the Hackster project page.
-
-|===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10       
-| L1 | Red LED        | 2345-asdf   | 5        
-| A1 | Arduino Zero   | ABX00066    | 1        
-|===
+https://www.hackster.io/robert-thas/internet-controlled-light-switch-c4381e
 
 
 === Help
